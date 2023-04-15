@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.players-icon {
+    width: 2rem;
+    height: 2rem;
+}
+
+.players-score {
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+.choices-icon {
+    width: 6rem;
+    height: 6rem;
+}
+
+.game-icon {
+    width: 3.5rem;
+    height: 3.5rem;
+}
+
+.choices-icon {
+    width: 5.5rem;
+    height: 5.5rem;
+    cursor: pointer;
+}
