@@ -6,6 +6,10 @@
 ## About The Project
 An implementation of grade-school classic “rock paper scissors” with fundamental JavaScript concepts
 
-> Note: Part 1 of this project only works on browser console. It will be revisited to add the user interface 
+## Technogies
 
-Here is the [Live Preview](https://alvarado08.github.io/theodinproject-rps/)
+> Coming soon...
+<p align="left">
+</p>
+
+[Live Demo](https://alvarado08.github.io/theodinproject-rps/)
